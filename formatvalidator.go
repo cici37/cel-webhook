@@ -16,7 +16,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"k8s.io/klog"
 
-	"github.com/jpbetz/omni-webhook/validators"
+	"github.com/cici37/cel-webhook/validators"
 )
 
 type RegisterAware interface {

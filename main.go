@@ -14,8 +14,8 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/klog"
 
-	"github.com/jpbetz/omni-webhook/informers"
-	"github.com/jpbetz/omni-webhook/validators"
+	"github.com/cici37/cel-webhook/informers"
+	"github.com/cici37/cel-webhook/validators"
 )
 
 var (
